@@ -9,6 +9,7 @@ int main()
     int *ptr;
     ptr=&i;
     printf("%d",*ptr);
-    int b;
+    int b=20;
     b++;
+    printf("%d",b);
 }
