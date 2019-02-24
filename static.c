@@ -10,7 +10,7 @@ int main()
     ptr=&i;
     printf("%d",*ptr);
     printf("%d",i);
-    int b;
+    int b=20;
     b++;
     printf("%d",b);
 }
