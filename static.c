@@ -7,7 +7,7 @@ int main()
     int i=10;
    
     int *ptr;
-    //ptr=&i;
+    ptr=&i;
     printf("%d",*ptr);
     printf("%d",i);
     int b;
