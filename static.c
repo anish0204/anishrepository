@@ -7,6 +7,7 @@ int main()
     int i=10;
     int x,y;
     int *ptr;
+    ptr=&i;
     printf("%d",*ptr);
     int b;
     b++;
